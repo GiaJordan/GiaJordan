@@ -13,7 +13,7 @@
 <p align='center'> 
   <b>Past</b>: <br>
     Biomedical Engineer at <a href="https://cowen.faculty.arizona.edu/">Cowen Lab</a> and Barnes Lab @ The University of Arizona<br>
-    Master's student at <a href="https://bme.engineering.arizona.edu/grad-programs">UArizona BME</a> 
+    Master's student at <a href="https://bme.engineering.arizona.edu/about-us">UArizona BME</a> 
 </p>
 
 <p align='center'> 
