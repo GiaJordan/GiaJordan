@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p> About Me: <br>
+<p> <b>About Me:</b> <br>
   Bioinformatics engineer with a technical background in data analysis, automation, machine learning, and neuroscience. I'm interested in developing software to improve healthcare for patients, providers, and researchers while promoting open source science.
 </p>
 
