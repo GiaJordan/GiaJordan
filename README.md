@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 <p> <b>About Me:</b> <br>
-  Bioinformatics engineer with a technical background in data analysis, automation, machine learning, and neuroscience. I'm interested in developing software to improve healthcare for patients, providers, and researchers while promoting open source science.
+  Software engineer with a technical background in data analysis, automation, machine learning, and neuroscience.<br>
+  I'm interested in developing software to improve healthcare for patients, providers, and researchers while promoting open source science.
 </p>
 
 <p align='center'> <br><br>
   <b>Current</b>: <br>
-  Associate Bioinformatics Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a>
+  Associate Research Software Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a>
 </p>
 
 
@@ -23,6 +24,9 @@
 </a>
 </p>
 
+<p align='center'> 
+<img src="https://github-readme-stats.vercel.app/api?username=GiaJordan&theme=dark" />
+</p>
 <!--
 **GiaJordan/GiaJordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,6 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<img src="https://github-readme-stats.vercel.app/api?username=GiaJordan&theme=dark" />
 -->
