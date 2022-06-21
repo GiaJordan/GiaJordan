@@ -13,7 +13,7 @@
 
 <p align='center'> 
   <b>Past</b>: <br>
-    Research Assistant at Evelyn F. McKnight Brain Institute, University of Arizona<br>
+    Research Technician at Evelyn F. McKnight Brain Institute, University of Arizona<br>
     Master's student at UArizona BME
 </p>
 
