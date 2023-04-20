@@ -7,7 +7,7 @@
 
 <p align='center'> 
   <b>Current</b>: <br>
-  Associate Research Software Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a>
+  Research Software Engineer at <a href="https://sagebionetworks.org/">Sage Bionetworks</a>
 </p>
 
 
